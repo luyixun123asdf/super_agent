@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: my_super_agent
+  ai:
+    dashscope:
+      api-key: sk-b568b9380df046618646eef63ee9997f
+      chat:
+        options:
+          model: qwen-plus
+
+
