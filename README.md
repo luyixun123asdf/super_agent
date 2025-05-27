@@ -1,7 +1,7 @@
 # super_agent
 
 #### 介绍
-一个使用spring Ai+ ToolCall + Mcp + RAG 
+一个使用spring Ai+ ToolCall + Mcp + RAG 实现一个MyManus的超级智能体
 
 #### 软件架构
 软件架构说明
