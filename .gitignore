@@ -1,5 +1,7 @@
 HELP.md
 src/test
+src/main/resources/application-local.yaml
+src/main/resources/mcp-servers.json
 temp
 target/
 !.mvn/wrapper/maven-wrapper.jar
